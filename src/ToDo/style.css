@@ -1,0 +1,17 @@
+.todo-container {
+  width: 700px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #272727;
+  border-radius: 8px;
+  background-color: #bdcaaa;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.list-title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 24px;
+  font-weight: 700;
+}
