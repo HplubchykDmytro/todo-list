@@ -11,6 +11,7 @@ const List = () => {
       'https://jsonplaceholder.typicode.com/todos?_limit=10'
     )
     const todos = await response.json()
+    console.log(todos)
     return todos
   }
 
